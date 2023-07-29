@@ -1,0 +1,30 @@
+.p {
+    color: aqua;
+}
+
+.btn {
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+.btn2 {
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+.red {
+    color: red !important;
+}
+
+.lst {
+    background-color: rgb(79, 80, 80);
+    color: aqua;
+}
+
+.elem {
+    color: blueviolet;
+    cursor: pointer;
+}
+.elem:hover {
+    color: blue;
+}
